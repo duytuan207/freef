@@ -7,8 +7,8 @@
 # By Default the accuracy is set as 5 seconds 
 
 # Please enter your Telegram bot token and channel ID below
-BOT_TOKEN='' # Your Bot Token which is issued by BotFather 
-CHANNEL_ID='' # Prepend -100 to the channel ID
+BOT_TOKEN='6378447719:AAE1zkspCK7T2uiJcXhHQnfRntiNOHrRnBU' # Your Bot Token which is issued by BotFather 
+CHANNEL_ID='6378447719' # Prepend -100 to the channel ID
 CHECK_PORT='2222' # Which port to check?
 
 # Function to send styled message to Telegram channel
